@@ -3,3 +3,4 @@ seed
 coverage.json
 *.log
 build
+package-lock.json
